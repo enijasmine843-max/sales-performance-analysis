@@ -9,7 +9,7 @@ Analyze sales data to identity trends, top-performing products, and regional per
 - Which region perform best and worst?
 
 ## Tools Used
-- Python (Panda, Matplotlib)
+- Python (Pandas, Matplotlib)
 - Excel
 
 ## Repository Structure 
