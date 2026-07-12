@@ -13,9 +13,9 @@ Analyze sales data to identity trends, top-performing products, and regional per
 - Excel
 
 ## Repository Structure 
-- Data -> dataset
-- notebooks -> analysis notebook
-- visuals -> charts and screenshots
+- 'data/' - retail sales dataset (CSV)
+- 'Retail_Sale_Analysis.ipynb' - full analysis notebook (codes, charts and insights)
+- 'README.md' - project overview
 
 ## Key Insights 
 (to be added after analysis)
