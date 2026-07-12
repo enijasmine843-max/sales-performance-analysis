@@ -1,7 +1,9 @@
 # sales-performance-analysis
 
-## Project Goal
-Analyze sales data to identity trends, top-performing products, and regional performance, and extract business insights.
+## Questions This Project Answers
+- How do sales change over time?
+- Which product categories generate the most revenue?
+- How do sales vary by gender and age group?
 
 ## Questions This Project Answers
 - How do sales change over time?
@@ -10,7 +12,6 @@ Analyze sales data to identity trends, top-performing products, and regional per
 
 ## Tools Used
 - Python (Pandas, Matplotlib)
-- Excel
 
 ## Repository Structure 
 - 'data/' - retail sales dataset (CSV)
